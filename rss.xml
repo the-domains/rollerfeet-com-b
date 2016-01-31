@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[rollerfeet.com(b)]]></title>
         <description><![CDATA[rollerfeet.com(b)]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rollerfeet-com-b/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 18:42:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 18:53:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rollerfeet-com-b/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedd54b2518-854d-40d0-8170-8d0b74ab5a31/index.html</link>
+            <description><![CDATA[<p>I received beta invite for The Grid today. There will be a lot of sample posts while I play around with the web app, Chrome extension, and iOS app. Fingers crossed!</p>]]></description>
+            <link>https://thegrid.ai/rollerfeet-com-b/d54b2518-854d-40d0-8170-8d0b74ab5a31/index.html</link>
             <guid isPermaLink="false">d54b2518-854d-40d0-8170-8d0b74ab5a31</guid>
-            <pubDate>Sun, 31 Jan 2016 18:42:32 GMT</pubDate>
+            <pubDate>Sun, 31 Jan 2016 18:51:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
