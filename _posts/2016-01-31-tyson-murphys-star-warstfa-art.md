@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Tyson is an artist for Blizzard. This piece adds some context to Chewie (and Kylo Ren) that I previously had not considered.
-datePublished: '2016-02-01T17:09:15.038Z'
+datePublished: '2016-02-01T17:09:14.936Z'
 dateModified: '2016-02-01T17:09:11.358Z'
 author: []
 title: "Tyson Murphy's Star Wars:TFA Art"
