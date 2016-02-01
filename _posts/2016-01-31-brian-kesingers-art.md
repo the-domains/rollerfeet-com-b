@@ -3,35 +3,35 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "Brian Kesinger's mashups of Calvin and Hobbes with Star Wars: The Force Awakens from his twitter feed."
-datePublished: '2016-01-31T19:26:32.430Z'
-dateModified: '2016-01-31T19:26:03.441Z'
+datePublished: '2016-02-01T17:38:13.357Z'
+dateModified: '2016-02-01T17:36:43.928Z'
 title: "Brian Kesinger's Art"
 author: []
+sourcePath: _posts/2016-01-31-brian-kesingers-art.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-31-brian-kesingers-art.md
-published: true
 url: brian-kesingers-art/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e69661c5-365b-49fe-8786-514b68e304b7.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80395ab1-e1fe-424d-ae4c-4d8e874c587e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3fd6503-91b9-4669-9b29-fda68341d058.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56165320-b189-47bd-85c5-e9ce84b5a261.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34af6b73-2ff0-4547-9537-4440673fe313.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7858eff-2c69-4441-96b6-c75eea3fa1e3.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18b065dc-0ac5-413c-bbec-1c92de9df475.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b064f20-b537-45a6-9778-b6faae6be781.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a2e5b62-81d5-4da6-88bd-31ccbbd1a3ab.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2ab1f39-ef95-41aa-9c68-35a03167f7d4.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d63ee6307ae1b582e48511ae60db1140bd3eccfd.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8034458524a0485ad8ca8e8dfe154e341551ce48.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/18272d86d63da9d229f5db1b5ded0c4006243c10.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/420a9a189112ee9e05eb7694fca1364c53983650.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b4fdd3097713b81eeecf21784475f4ee8cfbbeb.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d319d16b3b24529db6eeee66ecd12ac731110f9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f16237e6e69c062107bac8e72b9e5c5069f10073.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/365bc151569b0c8d5193fb9a6d11e0130313c23b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6e57cbdd0489a64eef24b515ff2d052db3bb15c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e771b5596979a7d426cbc7622457c11948aa76e9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b8493e0-83b2-42e5-802c-43f468640174.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d76aedd-3728-49c6-91fa-40c95e95dd3a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93048ecd-cb03-4657-8be2-505144ed8bd9.jpg)
