@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Brian Kesinger's mashups of Calvin and Hobbes with Star Wars: The Force Awakens from his twitter feed."
-datePublished: '2016-02-01T17:38:13.357Z'
+datePublished: '2016-02-01T17:38:13.412Z'
 dateModified: '2016-02-01T17:36:43.928Z'
 title: "Brian Kesinger's Art"
 author: []
