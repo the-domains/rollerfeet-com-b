@@ -1,21 +1,27 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:c4dcab61-eec2-4630-81ee-e562ec79b3f3'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-02-01T17:09:39.054Z'
+dateModified: '2016-02-01T17:09:34.890Z'
 author: []
-datePublished: '2016-02-01T02:28:04.486Z'
-publisher:
-  domain: ''
-  name: ''
 title: 'Kylo, Vader, and Cake by @BrianKesinger'
-dateModified: '2016-02-01T02:27:39.799Z'
 sourcePath: _posts/2016-02-01-kylo-vader-and-cake-by-briankesinger.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: kylo-vader-and-cake-by-briankesinger/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # Kylo, Vader, and Cake by @BrianKesinger
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f55a66d5-b136-4fcc-a392-2806d9a6045d.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/120968ab1446b7ab2a7ad3b89bb62fe3385b1df8.png)
